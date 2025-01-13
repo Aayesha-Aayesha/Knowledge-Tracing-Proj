@@ -4,9 +4,10 @@ In this idea, students understanding about learning concepts is captured conside
 
 This work performed in following steps:
 
-1) Feature Engineering performed on pre-processed data to infer new features from the existing ones.
-2) Two SOTA algorithms; LightGBM and Multi-head Self Attention Knowledge Tracing (MSAKT) were employed for the prediction task.
-3) MSAKT outperformed due to Attention Mechanism that measured contextual similarity among questions for predictions.
+1) An interesting Kaggle dataset was found about "Answer Correctness Predictions" i.e. https://www.kaggle.com/competitions/riiid-test-answer-prediction 
+2) Feature Engineering performed on pre-processed data to infer new features from the existing ones.
+3) Two SOTA algorithms; LightGBM and Multi-head Self Attention Knowledge Tracing (MSAKT) were employed for the prediction task.
+4) MSAKT outperformed due to Attention Mechanism that measured contextual similarity among questions for predictions.
 
 This work resulted in two papers:
 
