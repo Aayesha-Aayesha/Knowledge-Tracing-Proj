@@ -10,7 +10,6 @@ This work performed in following steps:
 
 This work resulted in two papers:
 
-    Aayesha, A., Nouri, J., Afzaal, M., Wu, Y., Li, X. and Weegar, R., 2021, June. An ensemble approach for question-level knowledge tracing. In International Conference on Artificial Intelligence in Education (pp. 433-437). Cham: 
-    Springer International Publishing.
-    
-    Aayesha , A., Nouri, J., Afzaal, M., Wu, Y., Li, X. and Weegar, R., 2021, July. A step towards improving knowledge tracing. In 2021 International Conference on Advanced Learning Technologies (ICALT) (pp. 38-39). IEEE.
+**Aayesha, A**., Nouri, J., Afzaal, M., Wu, Y., Li, X. and Weegar, R., 2021, June. An ensemble approach for question-level knowledge tracing. In International Conference on Artificial Intelligence in Education (pp. 433-437). Cham: Springer International Publishing.
+
+**Aayesha , A.**, Nouri, J., Afzaal, M., Wu, Y., Li, X. and Weegar, R., 2021, July. A step towards improving knowledge tracing. In 2021 International Conference on Advanced Learning Technologies (ICALT) (pp. 38-39). IEEE.
